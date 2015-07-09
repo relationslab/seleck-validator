@@ -1,0 +1,14 @@
+{
+  "name": "seleck-validator",
+  "version": "1.0.0",
+  "description": "Validator for SELECK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keita Moromizato",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^3.41.2"
+  }
+}
